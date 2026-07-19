@@ -6,7 +6,7 @@
 
 .page-footer-container {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
 }
 
 .page-footer-info {
@@ -70,7 +70,7 @@
   padding: 8px 16px;
   color: var(--white-color);
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   background-color: transparent;
   border: 1px solid var(--white-color);
